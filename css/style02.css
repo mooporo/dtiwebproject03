@@ -1,0 +1,59 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+#show-sum{
+    font-size: 2rem;
+    color: red;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;    
+}
+
+input[type=text]{
+    background-color: cornsilk;
+    margin-top: 20px;
+    
+    
+}
+
+input[type=text]:focus{
+    background-color: lightskyblue;
+}
+
+button{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100px;
+    padding: 10px 0;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+button:hover{
+    background-color: gray;
+}
+
+hr{
+    width: 70%;
+}
+
+#btn-red{
+    background-color: red;
+}
+#btn-green{
+    background-color: green;
+}
+#btn-yellow{
+    background-color: yellow;
+}
+
+
